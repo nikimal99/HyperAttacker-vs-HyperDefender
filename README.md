@@ -6,7 +6,7 @@ Find the official repository of AAAI work: https://github.com/nikimal99/HyperDef
 
 
 # Citation
-If you find this repository helpful in your research, please consider citing our work to be published at AAAI 2025:
+If you find this repository helpful in your research, please consider citing our work.
 
 ## Notes
 
