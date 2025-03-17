@@ -1,9 +1,11 @@
-# Setup Instructions
+# Hyperbolic Graph Attack Simulation
 
-#Create the Environment
-**To set up the environment, run the following command:**
+This folder provides an implementation for simulating hyperbolic attack. The attack process involves estimating Poincaré embeddings and using them as inputs to `HyperAttacker`.
 
-conda env create -f environment.yml
-conda activate hie_attack
+## Setup Instructions
 
-Firstly estimate poincare embeddings and then use these embeddings along with other data as input to HyperAttacker, to simulate the attack: run main_hyperattacker.py
+### 1. Clone the Repository
+
+```sh
+git clone https://github.com/nikimal99/HyperAttacker-vs-HyperDefender/
+cd hyperbolic-attack
